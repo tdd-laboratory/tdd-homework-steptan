@@ -59,7 +59,7 @@ Test-Driven Development (TDD).
    sentence of text. You might copy and paste from `test_integers()`...
    Use 'I was born on 2015-07-25.' as the first argument to
    `assert_extract` (the string to scan), and `library.dates_iso8601` as the
-   second argument. [[hint](hint-step2.py)]
+   second argument. [hint](hint-step2.py)
 
 3. Run your test.
 
